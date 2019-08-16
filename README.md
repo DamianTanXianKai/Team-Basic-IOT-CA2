@@ -2,8 +2,7 @@
 
 A.	Preview of our application
 
-Paste the link here of your Youtube
-
+https://youtu.be/vW1W-uVw8EY
 
 B.	What is the application about?
 
