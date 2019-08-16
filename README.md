@@ -12,4 +12,4 @@ Our application aims to assist users in life. Our application has a wifi speed t
 
 C.  Hardware checklist
 
-5 Bulb, 1 DHT 11, 1 LDR, 1 Motion Sensor, 1 Buzzer, 1 RFID reader, 1 RFID card, 3 Raspberry Pi 3 Model B set with NoIR Camera Board
+4 Bulb, 1 DHT 11, 1 LDR, 1 Motion Sensor, 1 Buzzer, 1 RFID reader, 1 RFID card, 3 Raspberry Pi 3 Model B set with NoIR Camera Board
